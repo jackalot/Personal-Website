@@ -1,6 +1,7 @@
 # Personal Website
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jackalot/Personal-Website/badge)](https://scorecard.dev/viewer/?uri=github.com/jackalot/Personal-Website)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12267/badge)](https://www.bestpractices.dev/projects/12267)
 
 Welcome to my personal website project! This simple, responsive site is designed to highlight who I am, what I build, and where to connect with me online.
 
