@@ -37,3 +37,10 @@ This project is a simple personal website. It includes HTML, CSS, and basic stru
 ## 💡 Attribution
 
 Built with plain HTML/CSS as a personal website quickstart template.
+
+## Version
+Current version: 1.0.0
+
+## Maintainers
+
+- jackalot
