@@ -36,3 +36,7 @@ Built with plain HTML/CSS as a personal website quickstart template.
 
 ## Version
 Current version: 1.0.0
+
+## Maintainers
+
+- jackalot
