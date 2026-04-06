@@ -3,6 +3,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jackalot/Personal-Website/badge)](https://scorecard.dev/viewer/?uri=github.com/jackalot/Personal-Website)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12267/badge)](https://www.bestpractices.dev/projects/12267)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Welcome to my personal website project! This simple, responsive site is designed to highlight who I am, what I build, and where to connect with me online.
 
 ## 🚀 What’s included
@@ -23,6 +24,9 @@ Welcome to my personal website project! This simple, responsive site is designed
 1. Open `index.html` in any browser.
 2. Edit content in `index.html` and style in `styles.css`.
 3. Add your social links, projects, and biography content.
+
+## Documentation
+This project is a simple personal website. It includes HTML, CSS, and basic structure for deployment.
 
 ## 📌 Want to improve it?
 
